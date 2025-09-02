@@ -5,21 +5,21 @@ Una calculadora de expresiones matemáticas implementada usando ANTLR4 para el a
 ##  Características
 
 ### Versión Java
-- ✅ Operaciones básicas: suma, resta, multiplicación, división
-- ✅ Funciones trigonométricas: `sin`, `cos`, `tan`
-- ✅ Funciones matemáticas: `sqrt`, `ln`, `log`, `rad`, `deg`
-- ✅ Factorial (`!`)
-- ✅ Variables y asignación
-- ✅ Paréntesis para precedencia
-- ✅ Soporte para números decimales
+- Operaciones básicas: suma, resta, multiplicación, división
+- Funciones trigonométricas: `sin`, `cos`, `tan`
+- Funciones matemáticas: `sqrt`, `ln`, `log`, `rad`, `deg`
+- Factorial (`!`)
+- Variables y asignación
+- Paréntesis para precedencia
+- Soporte para números decimales
 
 ### Versión Python
-- ✅ Operaciones básicas: suma, resta, multiplicación, división
-- ✅ Funciones trigonométricas: `sin`, `cos`, `tan`
-- ✅ Funciones matemáticas: `sqrt`, `ln`, `log`, `pow`, `max`, `min`
-- ✅ Variables y asignación
-- ✅ Paréntesis para precedencia
-- ✅ Manejo de errores (división por cero)
+- Operaciones básicas: suma, resta, multiplicación, división
+- Funciones trigonométricas: `sin`, `cos`, `tan`
+- Funciones matemáticas: `sqrt`, `ln`, `log`, `pow`, `max`, `min`
+- Variables y asignación
+- Paréntesis para precedencia
+- Manejo de errores (división por cero)
 
 ##  Requisitos
 
@@ -87,7 +87,7 @@ Una calculadora de expresiones matemáticas implementada usando ANTLR4 para el a
    20.0
    ```
 
-## 📖 Sintaxis Soportada
+##  Sintaxis Soportada
 
 ### Operadores
 - `+` - Suma
